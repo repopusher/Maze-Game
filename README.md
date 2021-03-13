@@ -9,7 +9,7 @@ A console based maze game in C (MinGW).
 
 •Success and failure criteria.
 
-User enters varibles to generate the maze.
+User enters varibles to generate the maze, note that the cell size must be uneven int (1,3,5..).
 
 A fog radius above 0 will implement the feature when the maze generates.
 
