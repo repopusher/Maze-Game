@@ -1,5 +1,13 @@
 # Maze-Game
-A console based maze game in C. The player needs 3 potions to exit the maze.
+A console based maze game in C (MinGW).
+
+•The player(@) needs 3 potions(#) to exit the maze.
+
+•Fog feature, only renders a cube around the player.
+
+•Wall collisoin.
+
+•Success and failure criteria.
 
 User enters varibles to generate the maze.
 
